@@ -1,3 +1,5 @@
+TableView 文字 图片高度自适应
+
 # UITableView-FDTemplateLayoutCell
 <img src="https://cloud.githubusercontent.com/assets/219689/7244961/4209de32-e816-11e4-87bc-b161c442d348.png" width="640">
 
